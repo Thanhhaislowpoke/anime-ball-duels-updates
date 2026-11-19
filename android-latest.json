@@ -1,0 +1,11 @@
+{
+  "product": "Anime Ball Duels Public Android Klick'r Bundle",
+  "version": "0.2.1",
+  "tag": "android-v0.2.1",
+  "release_url": "https://github.com/Thanhhaislowpoke/anime-ball-duels-updates/releases/tag/android-v0.2.1",
+  "download_url": "https://github.com/Thanhhaislowpoke/anime-ball-duels-updates/releases/download/android-v0.2.1/AnimeBallDuels-Android-Klickr-Android15-Redfinger-Beta.zip",
+  "asset_name": "AnimeBallDuels-Android-Klickr-Android15-Redfinger-Beta.zip",
+  "sha256": "eee8cd0f746b5db786abeaa4d22b634e54ccdb66b2ddadc4cf5bf66d0b9263d8",
+  "manifest_schema": 1,
+  "minimum_macro_app": "MacroDroid with HTTP Request and JSON Parse actions"
+}
